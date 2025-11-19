@@ -8,6 +8,22 @@ Passionate about leveraging data science, machine learning, and software enginee
 
 ---
 
+## 🏅 Professional Certifications
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/reversesingularity/reversesingularity/main/badges/certification-ai-engineer-for-developers-associate-badge.png" alt="AI Engineer for Developers Associate" width="120"/>
+<img src="https://raw.githubusercontent.com/reversesingularity/reversesingularity/main/badges/Python%20Data%20Associate%20-%20Badge%20with%20outline.png" alt="Python Data Associate" width="120"/>
+<img src="https://raw.githubusercontent.com/reversesingularity/reversesingularity/main/badges/DE%20Associate%20-%20badge.png" alt="Data Engineer Associate" width="120"/>
+<img src="https://raw.githubusercontent.com/reversesingularity/reversesingularity/main/badges/AIED%20Badge.png" alt="AI Engineer for Data Scientists Associate" width="120"/>
+<img src="https://raw.githubusercontent.com/reversesingularity/reversesingularity/main/badges/DE%20-%20badge%20with%20outline.png" alt="Data Engineer Professional" width="120"/>
+
+**5 DataCamp Professional Certifications**
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🎯 Self-Initiated Projects (31 Total)
