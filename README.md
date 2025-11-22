@@ -29,86 +29,86 @@ Passionate about leveraging data science, machine learning, and software enginee
 ### 🎯 Self-Initiated Projects (31 Total)
 
 #### 🌌 Aerospace & Simulation
-- **[Autonomous Lunar Rescue System](https://github.com/reversesingularity/autonomous-lunar-rescue-system)** - AI-powered lunar rescue coordination webapp
+- **Autonomous Lunar Rescue System** - AI-powered lunar rescue coordination webapp
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/-AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
   
-- **[Falcon 9 Landing Simulator](https://github.com/reversesingularity/falcon9-landing-simulator)** - Advanced trajectory optimization using Dymos
+- **Falcon 9 Landing Simulator** - Advanced trajectory optimization using Dymos
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Aerospace](https://img.shields.io/badge/-Aerospace-0078D4?style=flat-square)
 
-- **[Mars Rover Navigation Simulator](https://github.com/reversesingularity/mars-rover-navigation-simulator)** - Path planning and terrain analysis
+- **Mars Rover Navigation Simulator** - Path planning and terrain analysis
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Robotics](https://img.shields.io/badge/-Robotics-00979D?style=flat-square)
 
-- **[NZ Launch Site AI Project](https://github.com/reversesingularity/nz-launch-site-ai)** - Optimal launch site selection using ML
+- **NZ Launch Site AI Project** - Optimal launch site selection using ML
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/-ML-FF6F00?style=flat-square)
 
-- **[Satellite Orbit Classification](https://github.com/reversesingularity/satellite-orbit-classification)** - ML models for orbital mechanics
+- **Satellite Orbit Classification** - ML models for orbital mechanics
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-- **[Nuclear Fission Reactors - Moon Base Alpha](https://github.com/reversesingularity/nuclear-fission-moon-base)** - Reactor simulation for lunar base
+- **Nuclear Fission Reactors - Moon Base Alpha** - Reactor simulation for lunar base
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Simulation](https://img.shields.io/badge/-Simulation-4CAF50?style=flat-square)
 
 #### 🤖 AI & Machine Learning
-- **[Book Writer AI Toolkit](https://github.com/reversesingularity/book-writer-ai-toolkit)** - AI-powered book generation and production management
+- **Book Writer AI Toolkit** - AI-powered book generation and production management
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-- **[Super Claude](https://github.com/reversesingularity/super-claude)** - Enhanced Claude AI integration toolkit
+- **Super Claude** - Enhanced Claude AI integration toolkit
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/-AI-FF6F00?style=flat-square)
 
-- **[Self-Hosted AI Starter Kit](https://github.com/reversesingularity/self-hosted-ai-starter-kit)** - Complete self-hosted AI solution
+- **Self-Hosted AI Starter Kit** - Complete self-hosted AI solution
   - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AI](https://img.shields.io/badge/-AI-FF6F00?style=flat-square)
 
-- **[ML Model for REE Detection](https://github.com/reversesingularity/ree-detection-ml)** - Rare Earth Element detection using ML
+- **ML Model for REE Detection** - Rare Earth Element detection using ML
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-- **[Olanzapine ML Framework](https://github.com/reversesingularity/olanzapine-ml-framework)** - Pharmaceutical analysis ML framework
+- **Olanzapine ML Framework** - Pharmaceutical analysis ML framework
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/-ML-FF6F00?style=flat-square)
 
 #### 🌐 Web Applications
-- **[Beyond the Plate Web App](https://github.com/reversesingularity/beyond-the-plate-webapp)** - Nutrition and meal planning platform
+- **Beyond the Plate Web App** - Nutrition and meal planning platform
   - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-- **[Feast Planner App](https://github.com/reversesingularity/feast-planner)** - Event meal planning and coordination
+- **Feast Planner App** - Event meal planning and coordination
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-- **[News Aggregator](https://github.com/reversesingularity/news-aggregator)** - AI-powered news curation platform
+- **News Aggregator** - AI-powered news curation platform
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-- **[Presentation Web App](https://github.com/reversesingularity/presentation-webapp)** - Interactive presentation builder
+- **Presentation Web App** - Interactive presentation builder
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 #### 🗺️ Geospatial & Mapping
-- **[Interactive Historical Map Generator](https://github.com/reversesingularity/interactive-historical-map-generator)** - Dynamic historical map visualization
+- **Interactive Historical Map Generator** - Dynamic historical map visualization
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-- **[Map Tile Generation Web App](https://github.com/reversesingularity/map-tile-generator)** - Custom map tile generation system
+- **Map Tile Generation Web App** - Custom map tile generation system
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![GIS](https://img.shields.io/badge/-GIS-4CAF50?style=flat-square)
 
-- **[Country Map Tile Generator](https://github.com/reversesingularity/country-map-tile-generator)** - Automated country map tile creation
+- **Country Map Tile Generator** - Automated country map tile creation
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-- **[Interactive Basemap](https://github.com/reversesingularity/interactive-basemap)** - Customizable interactive mapping solution
+- **Interactive Basemap** - Customizable interactive mapping solution
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Leaflet](https://img.shields.io/badge/-Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
 
 #### 🎮 Game Development & Creative
-- **[SpriteStickerForge Pro](https://github.com/reversesingularity/spritestickerforge-pro)** - Professional sprite and sticker creation tool
+- **SpriteStickerForge Pro** - Professional sprite and sticker creation tool
   - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-- **[RTS Game Dev](https://github.com/reversesingularity/rts-game-dev)** - Real-time strategy game development framework
+- **RTS Game Dev** - Real-time strategy game development framework
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Game Dev](https://img.shields.io/badge/-Game%20Dev-FF4655?style=flat-square)
 
-- **[Interactive Map Python Pygame](https://github.com/reversesingularity/interactive-map-pygame)** - Pygame-based interactive map system
+- **Interactive Map Python Pygame** - Pygame-based interactive map system
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pygame](https://img.shields.io/badge/-Pygame-3776AB?style=flat-square)
 
 #### 🌍 Space & Exoplanet Research
-- **[Exoplanet Space App](https://github.com/reversesingularity/exoplanet-spaceapp)** - AI-powered exoplanet discovery and analysis
+- **Exoplanet Space App** - AI-powered exoplanet discovery and analysis
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/-AI-FF6F00?style=flat-square)
 
 #### 📚 Writing & Content
-- **[The Stone and the Sceptre](https://github.com/reversesingularity/the-stone-and-the-sceptre)** - Epic fantasy novel project with AI assistance
+- **The Stone and the Sceptre** - Epic fantasy novel project with AI assistance
   - ![Writing](https://img.shields.io/badge/-Writing-8B4513?style=flat-square) ![AI](https://img.shields.io/badge/-AI-FF6F00?style=flat-square)
 
 #### 🔬 Research & Analysis
-- **[Project Jubilees Annotation](https://github.com/reversesingularity/jubilees-annotation)** - Historical text annotation and analysis
+- **Project Jubilees Annotation** - Historical text annotation and analysis
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
@@ -165,7 +165,7 @@ I've completed **82 DataCamp projects** covering comprehensive topics across the
 - Optimization: Accelerate for distributed training
 - Metrics: BLEU, F1-Score, Accuracy evaluation
 
-📁 [View All DataCamp Projects](https://github.com/reversesingularity/datacamp-projects)
+📁 **82 DataCamp Projects Completed** - Comprehensive portfolio spanning ML, AI, Data Engineering, and Data Science
 
 ---
 
